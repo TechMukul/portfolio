@@ -16,7 +16,7 @@ export default function Navbar() {
         <Toolbar className={classes.Toolbar}>
           
           <Typography variant="h5" component="h6" >
-            News
+            Mukul Chauhan
           </Typography>
           <Box component={Hidden} xsDown>
             <Box>
